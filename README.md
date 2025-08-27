@@ -32,8 +32,7 @@ Activity 2: Polymorphism Challenge
 1. Clone this repository:
    ```bash
    [git clone https://github.com/FranNMK/python-oop.git)
-   cd oop-assignment
-````
+  
 
 2. Run the Python file:
 
